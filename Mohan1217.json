@@ -1,4 +1,4 @@
-[
+
     {
         "device_id": "device123",
         "username": "user1",
@@ -21,4 +21,4 @@
         "expirydate": "15-10-2026",
         "Allowoffline": false
 }
-]
+
